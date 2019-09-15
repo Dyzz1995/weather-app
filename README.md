@@ -7,6 +7,7 @@ After read this section you will be able to deploy the application. For this fol
 * Execute the command "npm install" on both directories (weather-app and weather_rest_api);
 * Change directory to weather_rest_api and execute "npm start";
 * Change directory to weather-app and execute "ng serve";
+* Go to http://localhost:4200/ on your browser.
 
 ## Prerequisites
 
