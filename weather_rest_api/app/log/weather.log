@@ -1,0 +1,90 @@
+[2019-09-15T17:29:21.057] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:29:21.059] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:34:38.803] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:34:38.803] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:34:50.363] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=ejfijfe&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:34:50.363] [ERROR] default - Response Status: 404 Not Found
+[2019-09-15T17:34:50.363] [ERROR] default - City ejfijfe doesn't exist.
+[2019-09-15T17:35:35.262] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=d&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:35:35.263] [ERROR] default - Response Status: 404 Not Found
+[2019-09-15T17:35:35.263] [ERROR] default - City d doesn't exist.
+[2019-09-15T17:36:02.576] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=d&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:36:02.577] [ERROR] default - Response Status: 404 Not Found
+[2019-09-15T17:36:02.577] [ERROR] default - City d doesn't exist.
+[2019-09-15T17:37:09.230] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=iiiiii&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:37:09.230] [ERROR] default - Response Status: 404 Not Found
+[2019-09-15T17:37:09.230] [ERROR] default - City iiiiii doesn't exist.
+[2019-09-15T17:37:22.722] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:37:22.722] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:37:33.615] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:37:33.616] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:37:33.812] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:37:33.812] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:37:33.945] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:37:33.945] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:37:34.093] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:37:34.093] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:38:51.284] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:51.284] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:52.461] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:52.461] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:52.615] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:52.615] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:52.747] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:52.747] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:52.980] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:52.981] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:53.089] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:53.089] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:53.210] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:53.210] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:38:53.365] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:38:53.365] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:39:30.477] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:39:30.477] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:40:02.810] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:02.810] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:40:07.130] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:07.130] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:40:07.181] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:07.181] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:40:14.126] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:14.126] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:40:14.127] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:14.127] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:40:14.156] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Porto&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:14.156] [INFO] default - Response Status: 200 OK For city Porto
+[2019-09-15T17:40:39.369] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:39.369] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:40:42.471] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:42.472] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:40:42.473] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:40:42.473] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:42:07.434] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=2222&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:42:07.435] [INFO] default - Response Status: 200 OK For city 2222
+[2019-09-15T17:42:20.806] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:42:20.806] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:43:19.354] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=ijoijij&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:43:19.354] [ERROR] default - Response Status: 404 Not Found
+[2019-09-15T17:43:19.354] [ERROR] default - City ijoijij doesn't exist.
+[2019-09-15T17:43:48.500] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:43:48.500] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:43:48.510] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:43:48.510] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:44:49.350] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=pijpijpij&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:44:49.350] [ERROR] default - Response Status: 404 Not Found
+[2019-09-15T17:44:49.350] [ERROR] default - City pijpijpij doesn't exist.
+[2019-09-15T17:47:53.896] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:47:53.898] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:49:55.729] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:49:55.729] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:49:55.732] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:49:55.732] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:50:00.253] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Lisboa&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:50:00.253] [INFO] default - Response Status: 200 OK For city Lisboa
+[2019-09-15T17:50:00.278] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:50:00.278] [INFO] default - Response Status: 200 OK For city Aveiro
+[2019-09-15T17:50:00.393] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Praga&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:50:00.393] [INFO] default - Response Status: 200 OK For city Praga
+[2019-09-15T17:53:28.853] [INFO] default - Request: http://api.openweathermap.org/data/2.5/weather?q=Aveiro&units=metric&appId=37a607818d13b20b2d6b143b4e0f762a
+[2019-09-15T17:53:28.854] [INFO] default - Response Status: 200 OK For city Aveiro

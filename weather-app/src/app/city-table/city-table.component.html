@@ -1,0 +1,12 @@
+<div *ngIf="rows.length != 0">
+    <ngx-datatable class="material"
+    [rows]="rows"
+    [loadingIndicator]="loadingIndicator"
+    [columns]="columns"
+    [columnMode]="ColumnMode"
+    headerHeight="50"
+    footerHeight="50"
+    rowHeight="auto"
+    [reorderable]="reorderable">
+    </ngx-datatable>
+</div>

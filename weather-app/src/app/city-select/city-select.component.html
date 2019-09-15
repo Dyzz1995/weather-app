@@ -1,0 +1,10 @@
+<div>
+    <div style="float: left; width: 50%; padding-top: 6rem; padding-left: 6rem">
+        <ng-select [items]="citiesList" [multiple]="true" [searchable]="true" [addTag]="true" class="custom" [(ngModel)]="cities"> 
+        </ng-select>
+    </div>
+
+    <div style="float: right; width: 50%;padding-left: 4rem; padding-top: 7rem;">
+        <button class="btn-primary" style="width: 50%; height: 50%;" (click)="onSubmit(cities)">Submit</button>
+    </div>
+</div>
